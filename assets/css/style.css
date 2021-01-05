@@ -220,7 +220,7 @@ header ul.nav-menu .mega-menu-out .mega-menu-list li a:hover:before {
 }
 header ul.dropdown-dark .mega-menu-out {
   background-color: #212121;
-  border: 1px solid #474747;
+  border: 1px solid #315A88;
 }
 header ul.dropdown-dark .mega-menu-out .mega-menu-list li a {
   color: #fff;
@@ -1075,7 +1075,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 .service-section-3 {
   padding-top: 35px;
   padding-bottom: 35px;
-  background-color: #474747;
+  background-color: #315A88;
 }
 
 .service.layout-3 .icon {
@@ -1666,7 +1666,7 @@ a.action-bottom:hover {
 }
 .nile-widget.contact-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #4a4a4a;
+  color: #315A88;
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -1679,7 +1679,7 @@ a.action-bottom:hover {
   margin-right: 5px;
 }
 .nile-widget.contact-widget .contact-info {
-  color: #4a4a4a;
+  color: #315A88;
 }
 .nile-widget.contact-widget .contact-info .icon {
   float: left;
@@ -1905,7 +1905,7 @@ footer.layout-light {
   background-color: #fff;
 }
 footer.layout-light .contact-info {
-  color: #4a4a4a;
+  color: #315A88;
 }
 footer.layout-light .contact-info .icon {
   float: left;
@@ -1932,7 +1932,7 @@ footer.layout-light .nile-widget.widget_nav_menu ul {
 }
 footer.layout-light .nile-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #4a4a4a;
+  color: #315A88;
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -1948,10 +1948,10 @@ footer.layout-light .copy-right {
   background-color: #f1efef;
 }
 footer.layout-light .copy-right .copy-right-text {
-  color: #4a4a4a;
+  color: #315A88;
 }
 footer.layout-light .copy-right .copy-right-text a {
-  color: #4a4a4a;
+  color: #315A88;
   text-decoration: none;
 }
 footer.layout-light .copy-right ul.social-media li {
@@ -1959,10 +1959,10 @@ footer.layout-light .copy-right ul.social-media li {
 }
 footer.layout-light .about-us {
   font-size: 13px;
-  color: #4a4a4a;
+  color: #315A88;
 }
 footer.layout-dark {
-  background-color: #4a4a4a;
+  background-color: #315A88;
 }
 footer.layout-dark .contact-info {
   color: #fff;
@@ -1992,7 +1992,7 @@ footer.layout-dark .nile-widget.widget_nav_menu ul {
 }
 footer.layout-dark .nile-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #b1b1b1;
+  color: #fff;
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -2005,7 +2005,7 @@ footer.layout-dark .nile-widget.widget_nav_menu ul li a:before {
   margin-right: 5px;
 }
 footer.layout-dark .copy-right {
-  background-color: #363535;
+  background-color: #254467;
 }
 footer.layout-dark .copy-right .copy-right-text {
   color: #fff;
@@ -2357,7 +2357,7 @@ video {
 }
 
 .background-grey-4 {
-  background-color: #474747;
+  background-color: #315A88;
 }
 
 .background-white {
@@ -2593,7 +2593,7 @@ video {
 }
 
 .text-grey-4 {
-  color: #474747;
+  color: #315A88;
 }
 
 .text-brown-0 {
@@ -6625,8 +6625,8 @@ video {
 }
 
 .padding-tb-50px {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .padding-tb-51px {
@@ -6875,8 +6875,8 @@ video {
 }
 
 .padding-tb-100px {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .padding-tb-101px {
@@ -19292,7 +19292,7 @@ video {
 }
 
 .border-grey-4 {
-  border-color: #474747 !important;
+  border-color: #315A88 !important;
 }
 
 .border-white {
@@ -31747,7 +31747,7 @@ ul.pagination li a {
 }
 
 ul.pagination.dark li a {
-  background-color: #474747;
+  background-color: #315A88;
   color: #FAFAFA;
   border: none;
 }
@@ -32618,7 +32618,7 @@ ul.last-posts-footer li {
   text-transform: capitalize;
 }
 .widget_categories ul > li a {
-  color: #474747;
+  color: #315A88;
 }
 
 /* =WordPress Core
@@ -38050,7 +38050,7 @@ form.dark-form ::-ms-input-placeholder {
   color: rgba(255,255,255,1); 
   letter-spacing: px;
   font-family:Poppins;
-  background: linear-gradient(to right, #6081AB, #305987);
+  background: linear-gradient(to right, #3F6DA1, #5481B5);
   border-radius:30px 30px 30px 30px;
   padding: 15px 40px !important;
   outline:none;box-shadow:none;
@@ -38076,3 +38076,4 @@ form.dark-form ::-ms-input-placeholder {
 }
 
 /*# sourceMappingURL=style.css.map */
+
